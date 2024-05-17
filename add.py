@@ -6,7 +6,7 @@ import pprint
 # Put the details of the dataset we're going to create into a dict.
 dataset_dict = {
     'name': 'Actors',
-    'notes': 'A dataset of different actors',
+    'notes': 'A dataset of American actors',
     'owner_org': 'Atlantic Records'
 }
 
